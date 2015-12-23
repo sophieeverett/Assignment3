@@ -139,6 +139,7 @@ a.read-more {
   float: right;
   color: #033048;
   font-size: 15px;
+  text-decoration: none;
 }
 
 a.read-more:hover {
@@ -180,7 +181,7 @@ li a {
   color: grey;
 }
 
-li a:hover {
+.right_menu li a:hover {
   background-color: white;
   color: #033048;
   font-weight: 600;
@@ -192,6 +193,7 @@ li a:hover {
   font-weight: 600;
   margin-top: 10px;
   padding-left: 0px;
+  text-decoration: none;
 }
 
 .about-relaxr p {
@@ -240,7 +242,7 @@ footer {
   text-align: center;
   font-weight:300;
   font-size: 10px;
-  padding-left: 70px;
+  float: none;
 }
 
 h1.logoBottom {
